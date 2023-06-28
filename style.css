@@ -1,10 +1,8 @@
-/* The page is NOT responsive. You can implement responsiveness yourself if you wanna have some fun 😃 */
-
 :root {
-  --color-primary: #5ec576;
-  --color-secondary: #ffcb03;
-  --color-tertiary: #ff585f;
-  --color-primary-darker: #4bbb7d;
+  --color-primary: #3ac1eb;
+  --color-secondary: #ecea4d;
+  --color-tertiary: #e52a5a;
+  --color-primary-darker: #0580d1;
   --color-secondary-darker: #ffbb00;
   --color-tertiary-darker: #fd424b;
   --color-primary-opacity: #5ec5763a;
@@ -672,3 +670,5 @@ h4 {
   font-size: 1.5rem;
   font-weight: 400;
 }
+
+/* Media Queries */
