@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://it0na72.github.io/FastFunds/">
+  <a href="it0na72.github.io/fastfunds-website/">
     <img src="/img/icon.png" alt="Logo" width="100" height="100">
   </a>
 <h3 align="center">FastFunds Website</h3>
@@ -54,9 +54,9 @@ After cloning this repo you should be able to change your details as needed.
 
 ## Roadmap
 
-- [] Change colour pallet
-- [] Add night mode
-- [] Add a button that goes to the demo website
+- [ ] Change colour pallet
+- [ ] Add night mode
+- [ ] Add a button that goes to the demo website
 
 See the [open issues](https://github.com/it0na72/fastfunds-website/issue) for a full list of proposed features (and known issues).
 
