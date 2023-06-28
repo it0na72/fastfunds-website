@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://it0na72.github.io/FastFunds/">
-    <img src="logo.png" alt="Logo" width="100" height="100">
+    <img src="/img/icon.png" alt="Logo" width="100" height="100">
   </a>
 <h3 align="center">FastFunds Website</h3>
 
