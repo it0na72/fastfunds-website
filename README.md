@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="it0na72.github.io/fastfunds-website/">
+  <a href="https://it0na72.github.io/fastfunds-website/">
     <img src="/img/icon.png" alt="Logo" width="100" height="100">
   </a>
 <h3 align="center">FastFunds Website</h3>
 
   <p align="center">
-    <a href="it0na72.github.io/fastfunds-website/"><b>View Demo</b></a>
+    <a href="https://it0na72.github.io/fastfunds-website/"><b>View Demo</b></a>
     ·
     <a href="https://github.com/it0na72/fastfunds-website/issue">Report Bug</a>
     ·
