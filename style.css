@@ -672,3 +672,102 @@ h4 {
 }
 
 /* Media Queries */
+
+/* Mobile Devices (up to 767px) */
+@media only screen and (max-width: 767px) {
+  /* Adjust header layout for mobile */
+  .nav__links {
+    display: none;
+  }
+  .nav__logo {
+    margin: 0 auto;
+  }
+  .header__title {
+    text-align: center;
+  }
+  .header__img {
+    display: none;
+  }
+  .btn--scroll-to {
+    margin: 0 auto;
+  }
+
+  /* Adjust section layout for mobile */
+  .section__title {
+    text-align: center;
+  }
+
+  /* Adjust operations section layout for mobile */
+  .operations__tab-container {
+    flex-direction: column;
+  }
+  .operations__tab {
+    margin-bottom: 1.5rem;
+  }
+
+  /* Adjust testimonials section layout for mobile */
+  .section__title--testimonials {
+    text-align: center;
+  }
+
+  /* Adjust footer layout for mobile */
+  .footer__nav {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .footer__logo {
+    margin: 1rem 0;
+  }
+}
+
+/* Tablet Devices (768px to 1023px) */
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  /* Adjust header layout for tablet */
+  .nav__item {
+    margin: 0 1rem;
+  }
+
+  /* Adjust section layout for tablet */
+  .section__title {
+    text-align: center;
+  }
+
+  /* Adjust operations section layout for tablet */
+  .operations__content {
+    padding: 2rem;
+  }
+
+  /* Adjust testimonials section layout for tablet */
+  .section__title--testimonials {
+    text-align: center;
+  }
+}
+
+/* Common Styles for Mobile and Tablet Devices */
+@media only screen and (max-width: 1023px) {
+  /* Adjust header layout for mobile and tablet */
+  .header__title {
+    padding: 4rem 2rem;
+  }
+
+  /* Adjust section layout for mobile and tablet */
+  .section__header {
+    text-align: center;
+  }
+
+  /* Adjust operations section layout for mobile and tablet */
+  .operations__tab-container {
+    justify-content: center;
+  }
+
+  /* Adjust testimonials section layout for mobile and tablet */
+  .testimonial__text {
+    font-size: 1.4rem;
+  }
+
+  /* Adjust footer layout for mobile and tablet */
+  .footer__item {
+    margin-bottom: 1rem;
+  }
+}
