@@ -201,6 +201,15 @@ h4 {
   font-weight: 500;
 }
 
+.btn a {
+  text-decoration: none;
+  color: rgb(34, 34, 34);
+}
+
+a:visited {
+  text-decoration: none;
+}
+
 .header__img {
   width: 100%;
   grid-column: 2 / 3;
