@@ -33,7 +33,7 @@
 
 ## About The Project
 
-ADD GIF OF THE WEBSITE
+![fastfunds website](https://github.com/it0na72/fastfunds-website/assets/56265972/4a11f06a-979a-488a-9ef6-a622cba7cde3)
 
 FastFunds is a cutting-edge banking web application designed to provide users with a lightning-fast and seamless financial experience. With our user-friendly interface and robust features, managing your funds has never been easier. Our platform enables you to effortlessly navigate through various banking operations, including account management, fund transfers, bill payments, and transaction tracking.
 
