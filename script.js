@@ -242,3 +242,16 @@ const slider = function () {
   });
 };
 slider();
+
+//toggle hamburger
+
+const hamMenu = document.querySelector('.hamburger');
+const hiddenMenu = document.querySelector('.nav__links');
+
+hamMenu.addEventListener('click', function () {
+  if (document.querySelector('.nav').classList.contains('sticky')) {
+    hiddenMenu.classList.toggle('active-sticky');
+  } else {
+    hiddenMenu.classList.toggle('active');
+  }
+});
