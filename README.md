@@ -56,8 +56,8 @@ After cloning this repo you should be able to change your details as needed.
 
 - [ ] Change colour pallet
 - [ ] Add night mode
-- [ ] Add a button that goes to the demo website
-- [ ] Add media queries
+- [x] Add a button that goes to the demo website
+- [x] Fix media queries
 
 See the [open issues](https://github.com/it0na72/fastfunds-website/issue) for a full list of proposed features (and known issues).
 

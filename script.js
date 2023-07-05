@@ -243,7 +243,7 @@ const slider = function () {
 };
 slider();
 
-//toggle hamburger
+// toggle hamburger for mobile devices
 
 const hamMenu = document.querySelector('.hamburger');
 const hiddenMenu = document.querySelector('.nav__links');
