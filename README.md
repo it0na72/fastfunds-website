@@ -58,6 +58,11 @@ After cloning this repo you should be able to change your details as needed.
 - [ ] Add night mode
 - [x] Add a button that goes to the demo website
 - [x] Fix media queries
+- [x] Implementing smooth scrolling
+- [x] Event delegation: implementing page navigation
+- [x] Build a tabbed component
+- [x] Lazy loading images
+- [x] Build a slider component
 
 See the [open issues](https://github.com/it0na72/fastfunds-website/issue) for a full list of proposed features (and known issues).
 
